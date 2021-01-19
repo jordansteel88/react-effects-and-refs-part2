@@ -1,0 +1,9 @@
+button {
+  margin: 20px auto;
+  font-size: 2rem;
+  border-radius: 5px;
+}
+
+button:focus {
+  outline: 0;
+}
